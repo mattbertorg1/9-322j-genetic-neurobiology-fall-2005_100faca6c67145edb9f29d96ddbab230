@@ -10,7 +10,7 @@ tags:
 ---
 ## Course Meeting Times
 
-Lectures: 2 sessions / week, 1.5 hours / session - saved
+Lectures: 2 sessions / week, 1.5 hours / session - saved again
 
 ## Course Summary
 
